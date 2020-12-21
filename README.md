@@ -44,4 +44,7 @@ I'm a Web/App Developer and Games Freelancer Developer from Brazil, **20 years o
 ----
    
 ![FuzariFrancisco GitHub Stats](https://github-readme-stats.vercel.app/api?username=fuzarifrancisco&show_icons=true)
+<a href="https://github.com/fuzarifrancisco?tab=repositories">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuzarifrancisco&layout=compact" width="400" height="200"/>
+</a>
 
