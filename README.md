@@ -20,7 +20,7 @@ Hi, I'm Francisco, but you can call me **Francis**.
 
 I'm a Web/App Developer and Games Freelancer Developer from Brazil, **20 years old** and **2 years of coding**. 
 
-**A music lover ☠️👽**, **Tranding Card Game Player 👾🤖** and **Anime fan 🍙🍡**.
+**A music lover ☠️👽**, **Trading Card Game Player 👾🤖** and **Anime fan 🍙🍡**.
 
 **"sometimes all you need to do is listen to good music and let your imagination flow"**
 
