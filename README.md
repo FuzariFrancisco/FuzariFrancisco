@@ -18,11 +18,7 @@
 
 Hi, I'm Francisco, but you can call me **Francis**. 
 
-I'm a Web/App Developer and Games Freelancer Developer from Brazil, **20 years old** and **2 years of coding**. 
-
-**A music lover ☠️👽**, **Trading Card Game Player 👾🤖** and **Anime fan 🍙🍡**.
-
-**"sometimes all you need to do is listen to good music and let your imagination flow"**
+I'm a Web/App Developer and Games Freelancer Developer from Brazil, **21 years old** and **3 years of coding**. 
 
 * 🌝 during the day developing systems. 
 * 🌚 during the night developing games and always learning more.
