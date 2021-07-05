@@ -38,7 +38,7 @@ I'm a Web/App Developer and Games Freelancer Developer from Brazil, **20 years o
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></code>
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/552/552220.png"></code>
 <code><img height="30" src="https://ionicframework.com/img/meta/logo.png"></code>
-<code><img height="30" src="https://i0.wp.com/www.selectgame.com.br/wp-content/uploads/unityappicon-450x450.png"></code>
+<code><img height="30" src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-tab-square-black.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ----
